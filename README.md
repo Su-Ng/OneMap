@@ -1,3 +1,3 @@
 # OneMap
 
-![Most Popular Movie](mostPopularMovies.png)
+![OneMap](OneMap.png)
